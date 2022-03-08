@@ -6,6 +6,8 @@
     "start": "node .output/server/index.mjs"
   },
   "dependencies": {
+    "ant-design-vue": "^2.2.8",
+    "babylonjs": "^4.2.1",
     "pinia": "^2.0.9"
   },
   "devDependencies": {
